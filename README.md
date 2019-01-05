@@ -1,6 +1,6 @@
 # pics
 
-A new Flutter project.
+A new study Flutter project.
 
 ## Getting Started
 
